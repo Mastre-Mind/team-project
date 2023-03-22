@@ -1,0 +1,5 @@
+tiles.set_current_tilemap(tilemap("""first map"""))
+p1: Sprite = sprites.create(assets.image("p1WalkRight"), SpriteKind.player)
+tiles.place_on_tile(p1, tiles.get_tile_location(1,3))
+p2: Sprite = sprites.create(assets.image("p2WalkLeft"), SpriteKind.enemy)
+tiles.place_on_tile(p2, tiles.get_tile_location(8, 3))
