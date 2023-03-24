@@ -44,16 +44,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "p2WalkLeft"
     },
-    "image10": {
-        "data": "hwQQABAAAAAA8P8A8P8AAADw8u//8gAAAAAv4iIPAAAAAPDi8gAAAAAAAO8PAAAAAAAA4AAAAAAAAADgAAAAAAAAAOAAAAAAAAAA4AAAAAAAAADgAAAAAAAAAOAAAAAAAAAA4AAAAAAAAP///w8AAAAA8BHxAAAAAAAAHw8AAAAAAADwAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "p1Arrow"
-    },
-    "image11": {
-        "data": "hwQQABAAAAAAAACAAAAAAAAAAJgIAAAAAACAmYkAAAAAAIiIiAgAAAAAAGAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAaAgAAAAAAIBpiQAAAAAAmGmZCAAAAICJaIiJAAAAgIgAgIgAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "p2Arrow"
-    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
