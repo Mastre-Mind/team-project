@@ -18,8 +18,10 @@ let p1Projectile: Sprite = null
 let p2: Sprite = null
 let p1: Sprite = null
 let statusbar = null
-let list = [tilemap`first map`, tilemap`first map`]
-tiles.setCurrentTilemap(list[randint(0, 1)])
+let stages = [tilemap`first_map0`, 
+tilemap`second map`,
+tilemap`level4`]
+tiles.setCurrentTilemap(stages[randint(0, 1)])
 p1 = sprites.create(assets.image`p1WalkRight`, SpriteKind.Player)
 tiles.placeOnTile(p1, tiles.getTileLocation(1, 3))
 p2 = sprites.create(assets.image`p2WalkLeft`, SpriteKind.Enemy)
